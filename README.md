@@ -1,16 +1,13 @@
-### Hi there 👋, I'm Ada Jiang
+# Hello world 👋, I'm Ada Jiang!
+I'm just embarking on my open-source journey and eager to learn and contribute to exciting projects!
 
-<!--
-**666de6/666de6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m looking for a remote job as a frontend developer.
+- 🌱 I’m currently learning Storybook and Cypress.
+- 💬 I love yoga, reading and slow living, feel free to contact me to talk about coding and life.
+- 📫 You can reach me at: jiang.666de6@gmail.com
+- 😄 Pronouns: She/her
 
-Here are some ideas to get you started:
+## GitHub Stats
+![666de6](https://github-readme-stats.vercel.app/api?username=666de6&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
