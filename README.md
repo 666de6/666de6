@@ -6,8 +6,11 @@ I'm just embarking on my open-source journey and eager to learn and contribute t
 - 💬 I love yoga, reading and slow living, feel free to contact me to talk about coding and life.
 - 📫 You can reach me at: jiang.666de6@gmail.com
 - 😄 Pronouns: She/her
+  
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666de6&layout=donut&title_color=f2b65b&border_color=94cdd4)](https://github.com/your-github-username)
 
 ## GitHub Stats
-![666de6](https://github-readme-stats.vercel.app/api?username=666de6&show_icons=true&theme=radical)
+![666de6](https://github-readme-stats.vercel.app/api?username=666de6&show_icons=true&theme=transparent&title_color=f2b65b&icon_color=94cdd4&text_color=188ea6&border_color=94cdd4)
 
 
