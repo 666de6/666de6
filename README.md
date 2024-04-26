@@ -1,3 +1,4 @@
+![Quotefancy-8041052-3840x2160](https://github.com/666de6/666de6/assets/45652366/eacff8b3-7df8-4fb3-b3df-7514484e3d3f)
 # Hello world 👋, I'm Ada Jiang!
 I'm just embarking on my open-source journey and eager to learn and contribute to exciting projects!
 
