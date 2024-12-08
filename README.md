@@ -14,7 +14,7 @@
 - https://cdcalculator.cc/
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666de6&layout=donut&title_color=f2b65b&border_color=94cdd4)](https://github.com/your-github-username)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666de6&layout=donut&title_color=f2b65b&border_color=94cdd4)
 
 ## GitHub Stats
 ![666de6](https://github-readme-stats.vercel.app/api?username=666de6&show_icons=true&theme=transparent&title_color=f2b65b&icon_color=94cdd4&text_color=188ea6&border_color=94cdd4)
