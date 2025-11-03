@@ -7,7 +7,7 @@
 - 😄 Pronouns: She/her
 
 ## Part of My Works
-- [Remove Unwanted Object](https://removetext.net/)
+- [Remove Text From Image](https://removetext.net/)
 - [Free Signature Generator](https://signaturegenerator.pro/)
 - [AI Signature Generator](https://ai.signaturegenerator.pro/)
 - [Blank Page Text Editor](https://blankpage.im/)
